@@ -1,2 +1,7 @@
-# Game-Project
-My first game, made with JavaScript and the p5 library
+# Objecive
+Collect tokens, don't run into chompers, and reach the flagpole.
+
+# Controls
+Left/Right Arrows to move around.
+Down Arrow to get down from platforms.
+Space to jump. 
