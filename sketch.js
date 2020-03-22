@@ -678,7 +678,7 @@ function renderFlagpole() {
     strokeWeight(5);
     stroke(0);
     line(flagpole.x_pos, floorPos_y, flagpole.x_pos, floorPos_y - 150);
-    fill(160, 0, 160);
+    fill(220, 53, 53);
     noStroke();
     
               
