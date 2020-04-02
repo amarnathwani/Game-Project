@@ -784,7 +784,8 @@ function startGame() {
     canyons = [{x_pos: 100, width: 70}, 
                {x_pos: 600, width: 70}, 
                {x_pos: 1700, width: 300}, 
-               {x_pos: 3000, width: 70}];
+               {x_pos: 3000, width: 70},
+               {x_pos: -1500, width: 700}];
     
     // Platforms array & create platforms
     platforms = [];
